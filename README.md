@@ -3,7 +3,7 @@
 Extends puppet-lint to issue warnings if any chaining arrows
 (`->`, `~>`, `<-`, `<~`) are found.
 
-[![Build Status](https://travis-ci.org/deanwilson/puppet-lint-no_chaining_arrows-check.svg?branch=main)](https://travis-ci.org/deanwilson/puppet-lint-no_chaining_arrows-check)
+[![Actions Status](https://github.com/deanwilson/puppet-lint-no_chaining_arrows-check/workflows/Ruby/badge.svg)](https://github.com/deanwilson/puppet-lint-no_chaining_arrows-check/actions)
 
 Although puppet-lint has the included
 [Right To Left Relationship](http://puppet-lint.com/checks/right_to_left_relationship/)
